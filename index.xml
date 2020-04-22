@@ -2,34 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>鬣羚</title>
-    <link>https:///beginnern.github.io/</link>
+    <link>https://beginnern.github.io/</link>
     <description>Recent content on 鬣羚</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Apr 2020 18:19:14 +0800</lastBuildDate>
     
-	<atom:link href="https:///beginnern.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://beginnern.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>随笔 1</title>
+      <link>https://beginnern.github.io/unit/%E9%9A%8F%E7%AC%94-1/</link>
+      <pubDate>Thu, 23 Apr 2020 00:34:52 +0800</pubDate>
+      
+      <guid>https://beginnern.github.io/unit/%E9%9A%8F%E7%AC%94-1/</guid>
+      <description>来自恩格斯的玩法：
+  喜爱的优点：
+   一般人：无关
+  男人：客观
+  女人：理智
+   特点：吊儿郎当
+  对幸福的理解：一无所有
+  对不幸的理解：一无所获
+  能原谅的缺点：烟瘾、颓废
+  厌恶的缺点：奢侈、张扬
+  厌恶的事：无理取闹
+  最不喜欢的人物：在绝对客观的前提下太多了&amp;hellip;
+  喜欢做的事：盲目行动、自取其辱
+  喜爱的男英雄：任何为客观而革命者
+  喜爱的女英雄：同上
+  喜爱的诗人：无
+  喜爱的散文家：无
+  喜爱的花：康乃馨、茉莉、百合
+  喜爱的颜色：白色与粉色
+  喜爱的菜：肝脏类
+  喜爱的格言：纪律是自由的第一条件、自由不是你想干什么就干什么，而是你想不干什么就不干什么-黑格尔
+  喜爱的箴言：顺天应人、存在即现实
+    构筑于一套完整且成熟的价值观：   基于平等 &amp;amp; 秩序 &amp;amp; 存在 &amp;amp; 现实 &amp;amp; 共产等等&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>About</title>
-      <link>https:///beginnern.github.io/about/</link>
+      <link>https://beginnern.github.io/about/</link>
       <pubDate>Wed, 22 Apr 2020 18:19:14 +0800</pubDate>
       
-      <guid>https:///beginnern.github.io/about/</guid>
-      <description>关于</description>
+      <guid>https://beginnern.github.io/about/</guid>
+      <description>  一个用于阐述主观观点与思想的主页
+  爱好是去自取其辱与享受他人的自取其辱
+  笔记博客
+  </description>
     </item>
     
     <item>
       <title>Text</title>
-      <link>https:///beginnern.github.io/unit/text/</link>
+      <link>https://beginnern.github.io/unit/text/</link>
       <pubDate>Wed, 22 Apr 2020 01:38:20 +0800</pubDate>
       
-      <guid>https:///beginnern.github.io/unit/text/</guid>
+      <guid>https://beginnern.github.io/unit/text/</guid>
       <description>预留文档
  框架：hugo &amp;amp; 主题：archie &amp;amp; port：1313 相关链接：   hugo官网; 笔记博客; Git-beginner; Git; Git-Serow; Git;
  简约风（绝望
- $ hugo server -D $ hugo server -t archie --buildDrafts $ hugo new site file_name $ hugo new unit/file_name.md $ hugo --theme=archie --baseUrl=&amp;quot;https://beginnern.github.io&amp;quot; --buildDrafts  2020-04-22-1.38</description>
+ $ hugo server -D $ hugo server -t archie --buildDrafts $ hugo new site file_name $ hugo new unit/file_name.md $ hugo --theme=archie --baseUrl=&amp;quot;https://beginnern.github.io&amp;quot; --buildDrafts   hugo配置：   CSDN-1 手册-1 手册-2 知乎-1
+  大概流程：本地目录生成HTML至pulic目录 -&amp;gt; 上传pulic目录至远端    Github: beginnerN g2721304117@gmail.com   2020-04-22-1.38</description>
     </item>
     
   </channel>
