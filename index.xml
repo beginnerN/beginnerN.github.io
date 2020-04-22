@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>鬣羚</title>
-    <link>https://example.com/</link>
+    <link>https://beginnern.github.io/</link>
     <description>Recent content on 鬣羚</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Apr 2020 18:19:14 +0800</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://beginnern.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>自由与平等 1</title>
-      <link>https://example.com/unit/%E8%87%AA%E7%94%B1%E4%B8%8E%E5%B9%B3%E7%AD%89-1/</link>
+      <link>https://beginnern.github.io/unit/%E8%87%AA%E7%94%B1%E4%B8%8E%E5%B9%B3%E7%AD%89-1/</link>
       <pubDate>Thu, 23 Apr 2020 04:14:10 +0800</pubDate>
       
-      <guid>https://example.com/unit/%E8%87%AA%E7%94%B1%E4%B8%8E%E5%B9%B3%E7%AD%89-1/</guid>
+      <guid>https://beginnern.github.io/unit/%E8%87%AA%E7%94%B1%E4%B8%8E%E5%B9%B3%E7%AD%89-1/</guid>
       <description>个人对于自由与平等的主观阐释
 首先对于自由的本质进行主观概述：
 我所主观理解的自由即源于人类作为生物（动物）而存在于现实（自然）间的本质与本能；
@@ -80,10 +80,10 @@
     
     <item>
       <title>知识与认识 1</title>
-      <link>https://example.com/unit/%E7%9F%A5%E8%AF%86%E4%B8%8E%E8%AE%A4%E8%AF%86-1/</link>
+      <link>https://beginnern.github.io/unit/%E7%9F%A5%E8%AF%86%E4%B8%8E%E8%AE%A4%E8%AF%86-1/</link>
       <pubDate>Thu, 23 Apr 2020 04:13:55 +0800</pubDate>
       
-      <guid>https://example.com/unit/%E7%9F%A5%E8%AF%86%E4%B8%8E%E8%AE%A4%E8%AF%86-1/</guid>
+      <guid>https://beginnern.github.io/unit/%E7%9F%A5%E8%AF%86%E4%B8%8E%E8%AE%A4%E8%AF%86-1/</guid>
       <description> 主观的知识论与认识论  知识的最基本定义是被证实且对于人类主观来说为真的概念，其次就是定义为被证实的真实的信念（被相信的概念）；
 所以知识由于证实而区别于人们相信并且真实的事，而认识论所解决的问题就是怎样恰当地证明真实的相信，即实证理论；
 即人类感性基于经验而产生的知性与随之而来的另行并不足矣证明其为真正的知识，而问题即在于如何对于知识进行实证。
@@ -110,10 +110,10 @@
     
     <item>
       <title>随笔 1</title>
-      <link>https://example.com/unit/%E9%9A%8F%E7%AC%94-1/</link>
+      <link>https://beginnern.github.io/unit/%E9%9A%8F%E7%AC%94-1/</link>
       <pubDate>Thu, 23 Apr 2020 00:34:52 +0800</pubDate>
       
-      <guid>https://example.com/unit/%E9%9A%8F%E7%AC%94-1/</guid>
+      <guid>https://beginnern.github.io/unit/%E9%9A%8F%E7%AC%94-1/</guid>
       <description>来自恩格斯的玩法：
   喜爱的优点：
    一般人：无关
@@ -141,10 +141,10 @@
     
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>https://beginnern.github.io/about/</link>
       <pubDate>Wed, 22 Apr 2020 18:19:14 +0800</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://beginnern.github.io/about/</guid>
       <description>  一个用于阐述主观观点与思想的主页
   爱好是去自取其辱与享受他人的自取其辱
   笔记博客
@@ -166,10 +166,10 @@
     
     <item>
       <title>Text</title>
-      <link>https://example.com/unit/text/</link>
+      <link>https://beginnern.github.io/unit/text/</link>
       <pubDate>Wed, 22 Apr 2020 01:38:20 +0800</pubDate>
       
-      <guid>https://example.com/unit/text/</guid>
+      <guid>https://beginnern.github.io/unit/text/</guid>
       <description>预留文档
  框架：hugo &amp;amp; 主题：archie &amp;amp; port：1313 相关链接：   hugo官网; 笔记博客; Git-beginner; Git; Git-Serow; Git;
  简约风（绝望
