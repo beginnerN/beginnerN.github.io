@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://beginnern.github.io/unit/test-1/</loc>
-    <lastmod>2020-04-29T02:18:18+08:00</lastmod>
+    <loc>https://beginnern.github.io/unit/</loc>
+    <lastmod>2020-04-30T11:56:54+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://beginnern.github.io/unit/</loc>
+    <loc>https://beginnern.github.io/unit/%E8%87%AA%E8%BA%AB-7/</loc>
+    <lastmod>2020-04-30T11:56:54+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beginnern.github.io/unit/test-1/</loc>
     <lastmod>2020-04-29T02:18:18+08:00</lastmod>
   </url>
   
