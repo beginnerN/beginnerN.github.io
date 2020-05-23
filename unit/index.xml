@@ -6,10 +6,42 @@
     <description>Recent content in Units on 鬣羚</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 May 2020 23:08:59 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2020 00:40:35 +0800</lastBuildDate>
     
 	<atom:link href="https://beginnern.github.io/unit/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>数理 9</title>
+      <link>https://beginnern.github.io/unit/%E6%95%B0%E7%90%86-9/</link>
+      <pubDate>Sun, 24 May 2020 00:40:35 +0800</pubDate>
+      
+      <guid>https://beginnern.github.io/unit/%E6%95%B0%E7%90%86-9/</guid>
+      <description>数理-9（主观）：  湍流
+看得着，摸不到
+有逻辑的，未知的，结构的，自然的，空的
+未知范畴
+除了空，无，现实，虚幻之外的范畴
+生产力与能源问题
+放下目的 放下欲望 放下未来 方向方向 放下悲观 放下乐观 放下绝望 放下希望 放下现实 放下一切
+如何掀起一场认知革命
+不设具体目标，稳步前进
+阶段性增幅
+别对皮囊所欺骗
+可以少睡，但别让自己多睡
+待办: 三角函数，三角学
+  三角学  三角学是数学的一个分支，主要研究三角形，以及三角形中边与角之间的关系
+三角学定义了三角函数，可以描述三角形边与角的关系，而且都是周期函数，可以用来描述周期性的现象
+三角学的基础是平面三角学，负曲率曲面上的三角学则是双曲几何中的一部分
+ 概述：  如果三角形的一个角为90度，而另一个角的度数已知，那么第三个角的度数也就固定下来了，这是因为任何一个三角形三个角的度数之和总是180度
+这样，两个锐角的度数之和为90度：它们互为余角
+这样的三角形形状已经完全确定下来，它们是一组度数相同的相似三角形，在度数确定的情况下，每个边之间的比例也就随之确定，无论三角形大小
+如果其中一个边的长度又为已知的话，那么其他两条边的长度也就确定
+这些比例以∠ A的三角函数形式表示出来，其中a、b、c分别带指三角形中对应三边的长度：
+ 正弦函数（sin），定义为该角的对边与斜边的比例，sin A = 对边/斜边 = a/c 余弦函数（cos），定义为该角的邻边与斜边的比例，cos A = 邻边/斜边 = b/c 正切函数（tan），定义为该角的对边与邻边的比例，tan A = 对边/邻边 = a/b = sin A/cos A  其中，斜边是指直角三角形中90度角所对的边，它是该三角形中最长的边，也是角A的一个邻边，对边是角A所对的一条边
+这些函数的倒数分别被称为余割（csc或cosec）、正割（sec）和余切（cot）：
+cos A = 1/sin A = c/a sec A = 1/cos A = c/b cot A = 1/tan A = cosA/sinA = b/a</description>
+    </item>
     
     <item>
       <title>高源 1</title>
